@@ -47,7 +47,8 @@ Temporary action. Used once, then removed. Removed at cleanup.
 When a minion with swarm is played, play another one. The second minion played this way does not trigger swarm.
 
 **Shields**  
-<img src="blue_shield.png" width="32" height="32">Prevents damage with less than or equal to shield value, then is discarded. 
+<img src="blue_shield.png" width="32" height="32">
+Prevents damage with less than or equal to shield value, then is discarded. 
 
 <img src="shield.png" width="32" height="32">
 Prevents damage once each round. Add a use marker when used.
