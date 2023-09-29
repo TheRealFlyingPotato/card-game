@@ -27,17 +27,11 @@ Check for upkeep effects.
 Heroes take their turns in whatever order they choose. Heros may play simultaneously where possible.
 ### Actions
 
-<img src="hourglass.png" height="32">
+<img src="hourglass.png" height="32"> Each hero starts with two available actions. When you spend an action, flip it facedown.  
 
-Each hero starts with two available actions. When you spend an action, flip it facedown.
+<img src="hourglass_fast.png" height="32"> Each hero may do any amount of swift actions per turn, but each swift action may only be used once per turn as a swift action. Any repeats of swift actions requires spending a normal action.  
 
-<img src="hourglass_fast.png" height="32">
-
-Each hero may do any amount of swift actions per turn, but each swift action may only be used once per turn as a swift action. Any repeats of swift actions requires spending a normal action.
-
-<img src="hourglass_blue.png" height="32">
-
-Temporary action. Used once, then removed. Removed at cleanup.
+<img src="hourglass_blue.png" height="32"> Temporary action. Used once, then removed. Removed at cleanup.
 
 
 
